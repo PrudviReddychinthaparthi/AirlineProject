@@ -29,6 +29,7 @@ public class DepartmentServlet extends GenericServlet {
         System.out.println("For Github changes");
         // TODO Auto-generated constructor stub
         System.out.println("For Github changes---1");
+        System.out.println("For Github changes---2");
     }
 
 	/**
